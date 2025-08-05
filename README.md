@@ -61,7 +61,7 @@ cd PN_TRACKER
 2. **Run the script:**
 
 ```bash
-python PN_TRACKER.py
+python3 PN_TRACKER.py
 ```
 
 3. **Enter the phone number** (with country code, e.g. `+2348012345678`)
