@@ -54,14 +54,14 @@ pip install -r requirements.txt
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PN_TRACKER.git
+git clone https://github.com/ACW360/PN_TRACKER.git
 cd PN_TRACKER
 ```
 
 2. **Run the script:**
 
 ```bash
-python pn_tracker.py
+python PN_TRACKER.py
 ```
 
 3. **Enter the phone number** (with country code, e.g. `+2348012345678`)
@@ -116,5 +116,5 @@ If you find this project helpful, please ⭐ it on GitHub, share the YouTube tut
 
 ## 🙌 Credits
 
-Created with ❤️ by [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Created with ❤️ by [ACW360](https://github.com/ACW360)
 
