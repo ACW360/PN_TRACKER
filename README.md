@@ -5,7 +5,7 @@
 
 ---
 
-![screenshot](./screenshot.png)
+![screenshot](./Screenshot_20250804-233902.png)
 
 ## 📌 As Seen On YouTube
 
