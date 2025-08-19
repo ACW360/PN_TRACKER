@@ -8,16 +8,16 @@ from colorama import init, Fore, Back
 init(autoreset=True)
 
 def banner():
-        print(Fore.RED + """
+	print(Fore.RED + """  
 
- ____  _   _     _____ ____      _    ____ _  _______ ____
-|  _ \| \ | |   |_   _|  _ \    / \  / ___| |/ / ____|  _ \
+ ____  _   _     _____ ____      _    ____ _  _______ ____  
+|  _ \| \ | |   |_   _|  _ \    / \  / ___| |/ / ____|  _ \ 
 | |_) |  \| |_____| | | |_) |  / _ \| |   | ' /|  _| | |_) |
-|  __/| |\  |_____| | |  _ <  / ___ \ |___| . \| |___|  _ <
-|_|   |_| \_|     |_| |_| \_\/_/   \_\____|_|\_\_____|_| \_\
+|  __/| |\  |_____| | |  _ <  / ___ \ |___| . \| |___|  _ < 
+|_|   |_| \_|     |_| |_| \_\/_/   \_\____|_|\_\_____|_| \_\   
 
-               <<<<=>>>> Author: ACW360 <<<<=>>>>""" + "\n")
-banner()
+                <<<<=>>>> Author: ACW360 <<<<=>>>>""" + "\n")
+banner()  
 
 # Step 1: Enter the phone number
 number = input(Fore.GREEN + "Enter the phone number with country code: ")
@@ -59,3 +59,4 @@ try:
 
 except Exception as e:
     print(Fore.RED + "🚫 Error while retrieving location data:", e)
+        
