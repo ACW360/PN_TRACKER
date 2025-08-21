@@ -9,8 +9,7 @@
 
 ## 📌 As Seen On YouTube
 
-📺 **Watch Full Tutorial Video**  
-👉 [Click Here to Watch](https://youtube.com/YOUR_VIDEO_LINK)
+📺 **Watch Full Tutorial Video*https� [Click Here to Watch](https://youtu.be/5ltlO8my82w?si=U4kXMLjA4TTVQqYY)
 
 ---
 
